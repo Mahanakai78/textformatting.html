@@ -1,0 +1,23 @@
+/* body{
+    background: url('../image/download.jpg'); 
+background-repeat: no-repeat;
+    background-position: center;
+} */
+body{
+    direction: rtl;
+    text-align: right;
+}
+div#firstDiv{
+    
+    font-size: xx-large
+}
+div#secondDiv{
+    color: blueviolet
+}
+div#thirdDiv{
+    background-color: aquamarine
+}
+h1, h2{
+    text-align: center;
+    
+}
